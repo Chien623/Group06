@@ -26,7 +26,7 @@
 
 # 案例圖及案例說明
 ## 案例圖
-![](https://user-images.githubusercontent.com/73731793/197706411-09cc921c-9934-41c6-b055-62f4640d7b22.png)
+![](https://user-images.githubusercontent.com/73731793/197711175-01463976-2d08-4c3e-b5f1-d5a3b7f0034c.png)
 
    
 ### 案例說明(一)
