@@ -1,0 +1,6 @@
+![流程1](https://user-images.githubusercontent.com/113968282/203257151-7f4efa26-4f8f-4442-935b-fe2d45c023ec.png)
+![流程2](https://user-images.githubusercontent.com/113968282/203257162-0e88ff23-942c-47b4-9ed0-da80d6bbe4a0.png)
+![流程3](https://user-images.githubusercontent.com/113968282/203257167-0d128b51-c249-4ad1-a9f1-ff213a166a4f.png)
+![流程4](https://user-images.githubusercontent.com/113968282/203257169-ca07aa5d-ae69-49fe-9222-4fb719fb7b68.png)
+![流程5](https://user-images.githubusercontent.com/113968282/203257174-cd0c13fb-f15d-41d7-97a5-082f4c5a777c.png)
+![流程6](https://user-images.githubusercontent.com/113968282/203257181-e5376f7d-89e1-4228-a753-887cdf866c41.png)
